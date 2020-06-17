@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437916492608",
+    "firebase_url": "https://ocean-wallpaper-4k-d4a17.firebaseio.com",
+    "project_id": "ocean-wallpaper-4k-d4a17",
+    "storage_bucket": "ocean-wallpaper-4k-d4a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437916492608:android:21ad202a7d7067510590a5",
+        "android_client_info": {
+          "package_name": "hd.wallpapersfootball4k.hdwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437916492608-uai2es7viqnb148ksm9fd0nt3fplpg2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvb3rq53Co3gGuLdQHB9h3PeYvKGlsCP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437916492608-uai2es7viqnb148ksm9fd0nt3fplpg2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
